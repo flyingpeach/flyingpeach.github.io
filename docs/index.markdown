@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+(About Me)
+
+[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ)
+
+[ResearchGate](https://www.researchgate.net/profile/Jing-Shuang-Li)
