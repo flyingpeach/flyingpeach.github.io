@@ -19,13 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jing Shuang (Lisa) Li
-email: jsli [at] caltech [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate in Control + Dynamical Systems @ Caltech. 
-  I work on distributed control theory with applications to 
-  cyberphysical systems and neuroscience models.
+  PhD Candidate in Control + Dynamical Systems @ Caltech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 github_username:   flyingpeach
 linkedin_username: jslisali
 
