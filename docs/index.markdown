@@ -23,7 +23,7 @@ My work is motivated by diverse applications from two complementary perspectives
 1. The *engineering* perspective, in which we wish to *design* cyberphysical systems that perform optimally, efficiently, robustly, etc.
 2. The *biological* perspective, in which we wish to *decipher* how organisms are able to perform optimally, efficiently, robustly, etc.
 
-These perspectives are symbiotic; organisms have inspired techniques in engineering, and engineering tools form the basis for many models of biological systems. I work on broad theoretical problems motivated by both perspectives, and also collaborate with engineers and biologists to produce and apply theory with with varying levels of application specificity.
+These perspectives are symbiotic; biology inspires novel techniques in engineering, and engineering tools form the basis for many models of biological systems. I work on broad theoretical problems motivated by both perspectives, and also collaborate with engineers and biologists to produce and apply theory with with varying levels of application specificity.
 
 My core expertise is in *control theory*, which concerns the analysis and operation of dynamical systems. Control theory is used to design aircraft, power grids, robots, and other cyberphysical systems. In biology, control theory underlies state-of-the-art motor and sensorimotor models, and can also be used to analyze cellular systems.
 
