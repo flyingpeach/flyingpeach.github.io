@@ -31,7 +31,7 @@ My core expertise is in *control theory*, which concerns the analysis and operat
  <img width="600" src="/assets/engineering_vs_bio.JPG">
 </p>
 
+### **Scalable Control Theory**
+My theoretical research focuses on distributed, local, and scalable control algorithms. Such algorithms are crucial to the control of cyberphysical systems such as the power grid, which faces expansions and challenges as we incorporate more and more renewable energy sources. 
 
-
-
-
+I have worked on scalable structured robust control [[paper](https://arxiv.org/abs/2204.02493){:target="_blank"}], model predictive control [[paper1](https://arxiv.org/abs/2110.07010){:target="_blank"}, [paper2](https://arxiv.org/abs/2203.00780){:target="_blank"}, [paper3](https://arxiv.org/abs/2010.01292){:target="_blank"}], and nonlinear control [[paper](https://arxiv.org/abs/2205.02187){:target="_blank"}]. In older work [[paper](https://arxiv.org/abs/2006.05040){:target="_blank"}], I describe how to selectively enforce key structural and behavioral constraints via distributed algorithms. I also wrote and maintain toolboxes in MATLAB and Python [[code](https://github.com/sls-caltech/sls-code){:target="_blank"}, [paper](https://arxiv.org/abs/2004.12565){:target="_blank"}] for System Level Synthesis, an emerging technique for distributed control.
