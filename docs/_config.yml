@@ -20,7 +20,6 @@
 
 title: Jing Shuang (Lisa) Li
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate in Control + Dynamical Systems @ Caltech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 github_username:   flyingpeach
