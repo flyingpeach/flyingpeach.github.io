@@ -39,3 +39,14 @@ My theoretical research focuses on distributed, local, and scalable control algo
 </p>
 
 I have worked on scalable structured robust control [[paper](https://arxiv.org/abs/2204.02493){:target="_blank"}], model predictive control [[paper1](https://arxiv.org/abs/2110.07010){:target="_blank"}, [paper2](https://arxiv.org/abs/2203.00780){:target="_blank"}, [paper3](https://arxiv.org/abs/2010.01292){:target="_blank"}], and nonlinear control [[paper](https://arxiv.org/abs/2205.02187){:target="_blank"}]. In older work [[paper](https://arxiv.org/abs/2006.05040){:target="_blank"}], I describe how to selectively enforce key structural and behavioral constraints via distributed algorithms. I also wrote and maintain toolboxes in MATLAB and Python [[code](https://github.com/sls-caltech/sls-code){:target="_blank"}, [paper](https://arxiv.org/abs/2004.12565){:target="_blank"}] for System Level Synthesis, an emerging technique for distributed control.
+
+### **Control Theory for Biology** 
+
+From sensorimotor behavior to chemical reaction networks, many biological phenomena exhibit dynamics and can be modeled and analyzed using tools from control theory. The application of control theory provides insight on fundamental limits and characteristics of biological systems, and is complementary to data-driven methods.
+
+Insights from biological systems can also inspire new techniques for the design of cyberphysical systems. Organisms contain billions of neurons and cells which coordinate to attain high performance in a variety of survival-critical tasks (e.g. resisting infections, evading predators); they perform these tasks with a level of efficiency and robustness that is unattainable by state-of-the-art engineered systems. 
+
+A well-documented but poorly understood phenomenon in biological systems is the prevalence of internal feedback, i.e. signal pathways that traverse the opposite direction as conventional pathways. For instance, conventional visual processing conveys signals from the eye toward the brain, while internal feedback in the visual system conveys signals from the brain toward the eye. In recent work, we outline the presence of internal feedback across a variety of organ systems and organisms [[paper](https://arxiv.org/abs/2110.05029
+){:target="_blank"}], and apply both classical control theory [[paper](https://arxiv.org/abs/2109.11752
+){:target="_blank"}] and distributed control theory [[paper](https://arxiv.org/abs/2109.11757
+){:target="_blank"}] to explain the functionality and necessary abundance of internal feedback in systems with local and distributed processing. Local and distributed processing also feature heavily in the analysis of chemical reaction networks, which is the subject of ongoing work [[poster](/assets/buildacell_poster.pdf){:target="_blank"}].
