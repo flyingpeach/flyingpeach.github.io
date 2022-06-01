@@ -46,7 +46,7 @@ I have worked on scalable structured robust control [[paper](https://arxiv.org/a
 
 From sensorimotor behavior to chemical reaction networks, many biological phenomena exhibit dynamics and can be modeled and analyzed using tools from control theory. The application of control theory provides insight on fundamental functions and behaviors of biological systems, suggests further avenues of experimental investigation, and complements existing data and data-driven methods.
 
-Insights from biological systems can also inspire new techniques for the design of cyberphysical systems. Organisms contain billions of neurons and cells which coordinate to attain high performance in a variety of survival-critical tasks (e.g. resisting infections, evading predators); they perform these tasks with a level of efficiency and robustness that is unattainable by state-of-the-art engineered systems. 
+Insights from biological systems can also inspire new techniques for the design of cyberphysical systems. Organisms are composed of billions of cells which coordinate to attain high performance in a variety of tasks (e.g. infection resistance, predator evasion); they perform these tasks with a level of efficiency and robustness that is unattainable by state-of-the-art cyberphysical systems. A better understanding of the mechanisms by which organisms achieve such high performance, efficiency, and robustness will shed light on how engineers can design improved cyberphysical systems.
 
 <p align="center">
  <img width="400" src="/assets/ctrl_for_bio.jpeg">
