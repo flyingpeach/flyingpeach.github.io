@@ -9,9 +9,9 @@ layout: home
 
 ![](/assets/profile_picture.jpeg){:align="left" width="225"}
 
-I'm a PhD candidate in Control + Dynamics Systems at Caltech, advised by Professor John C. Doyle. I work on distributed control theory with applications to cyberphysical systems and biology models; my research is partially supported by an NSERC PGSD. I received a B.A.Sc. from the University of Toronto in 2018. Outside of work, I enjoy playing, composing, producing, and listening to music; reading, creative writing, and staying active. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
+I'm a PhD candidate in Control + Dynamics Systems at Caltech, advised by Professor John C. Doyle. I work on distributed control theory with applications to cyberphysical systems and biology models; my research is partially supported by an NSERC PGSD. I received a B.A.Sc. in Engineering Science from the University of Toronto in 2018. Outside of work, I enjoy playing, composing, producing, and listening to music; reading, creative writing, and staying active. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
 
-[[CV](/assets/cv_may302022.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[General GitHub](https://github.com/flyingpeach){:target="_blank"}] [[SLS GitHub](https://github.com/sls-caltech/){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] 
+[[CV](/assets/cv_2022august02.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[General GitHub](https://github.com/flyingpeach){:target="_blank"}] [[SLS GitHub](https://github.com/sls-caltech/){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] 
 
 Email: jsli at caltech dot edu
 
