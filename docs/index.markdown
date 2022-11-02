@@ -11,11 +11,11 @@ layout: home
 
 I'm a PhD candidate in Control + Dynamics Systems at Caltech, advised by John Doyle. I work on distributed control theory with applications to engineering systems and biology models; my research is partially supported by an [NSERC PGSD](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp){:target="_blank"}. I received a B.A.Sc. in Engineering Science from the University of Toronto in 2018. Outside of work, I enjoy playing, composing, producing, and listening to music; reading, creative writing, and staying active. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
 
-[[CV](/assets/jsli_cv_nov01.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[Personal GitHub](https://github.com/flyingpeach){:target="_blank"}] [[SLS Toolboxes](https://github.com/sls-caltech/){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] 
+[[CV](/assets/jsli_cv_nov02.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[Personal GitHub](https://github.com/flyingpeach){:target="_blank"}] [[SLS Toolboxes](https://github.com/sls-caltech/){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] 
 
 Email: jsli at caltech dot edu
 
-I'm on the job market! [[Research Statement](/assets/jsli_research_statement_nov01.pdf){:target="_blank"}] [[Teaching Statement](/assets/jsli_teaching_statement_nov01.pdf){:target="_blank"}] [[DEI Statement](/assets/jsli_dei_statement_nov01.pdf){:target="_blank"}]
+I'm on the job market! [[Research Statement](/assets/jsli_research_statement_nov02.pdf){:target="_blank"}] [[Teaching Statement](/assets/jsli_teaching_statement_nov01.pdf){:target="_blank"}] [[DEI Statement](/assets/jsli_dei_statement_nov01.pdf){:target="_blank"}]
 
 [Research Overview](#research-overview) | [Distributed Control](#distributed-control) | [Control Theory for Biology](#control-theory-for-biology) 
 
@@ -28,9 +28,7 @@ In engineering, control theory plays a crucial role in the design and analysis o
 </p>
 
 ### **Distributed Control**
-My theoretical research focuses on distributed, scalable control algorithms, which, under mild assumptions, enjoy complexity that scales independently of network size. This is important for large-scale systems, for which centralized controllers can be intractable. I often use the System Level Synthesis (SLS) framework in my research -- I write and maintain toolboxes in [MATLAB](https://github.com/sls-caltech/sls-code/tree/master/matlab){:target="_blank"} and [Python](https://github.com/shih-hao-tseng/SLSpy){:target="_blank"} for SLS.
-
-Representative works include scalable [structured robust control](https://arxiv.org/abs/2204.02493){:target="_blank"}, model predictive control [[paper1](https://arxiv.org/abs/2110.07010){:target="_blank"}, [paper2](https://arxiv.org/abs/2203.00780){:target="_blank"}], and [closed-loop and controller specifications for distributed algorithms](https://arxiv.org/abs/2006.05040){:target="_blank"}. 
+My theoretical research focuses on distributed, scalable control algorithms. These algorithms enjoy complexity that scales independently of network size, under mild assumptions.  This is important for large-scale systems, for which centralized controllers can be intractable. I often use the System Level Synthesis (SLS) framework in my research -- I write and maintain toolboxes in [MATLAB](https://github.com/sls-caltech/sls-code/tree/master/matlab){:target="_blank"} and [Python](https://github.com/shih-hao-tseng/SLSpy){:target="_blank"} for SLS. Representative works include scalable [structured robust control](https://arxiv.org/abs/2204.02493){:target="_blank"}, model predictive control [[paper1](https://arxiv.org/abs/2110.07010){:target="_blank"}, [paper2](https://arxiv.org/abs/2203.00780){:target="_blank"}], and [closed-loop and controller specifications for distributed algorithms](https://arxiv.org/abs/2006.05040){:target="_blank"}. 
 
 <p align="center">
  <img width="600" src="/assets/diagram_distributed_ctrl.png">
