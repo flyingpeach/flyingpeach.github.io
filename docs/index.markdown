@@ -11,11 +11,11 @@ layout: home
 
 I'm a PhD candidate in Control + Dynamics Systems at Caltech, advised by John Doyle. I work on distributed control theory with applications to engineering systems and biology models; my research is partially supported by an [NSERC PGSD](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp){:target="_blank"}. I received a B.A.Sc. in Engineering Science from the University of Toronto in 2018. Outside of work, I enjoy playing, composing, producing, and listening to music; reading, creative writing, and staying active. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
 
-[[CV](/assets/jsli_cv_nov14.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[Personal GitHub](https://github.com/flyingpeach){:target="_blank"}] [[SLS Toolboxes](https://github.com/sls-caltech/){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] 
+[[CV](/assets/jsli_cv_jan16.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[Personal GitHub](https://github.com/flyingpeach){:target="_blank"}] [[SLS Toolboxes](https://github.com/sls-caltech/){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] 
 
 Email: jsli at caltech dot edu
 
-I'm on the job market! [[Research Statement](/assets/jsli_research_statement_nov14.pdf){:target="_blank"}] [[Teaching Statement](/assets/jsli_teaching_statement_nov01.pdf){:target="_blank"}] [[DEI Statement](/assets/jsli_dei_statement_nov01.pdf){:target="_blank"}]
+I'm on the job market! [[Research Statement](/assets/jsli_research_statement_jan16.pdf){:target="_blank"}] [[Teaching Statement](/assets/jsli_teaching_statement_nov01.pdf){:target="_blank"}] [[DEI Statement](/assets/jsli_dei_statement_nov01.pdf){:target="_blank"}]
 
 [Research Overview](#research-overview) | [Distributed Control](#distributed-control) | [Control Theory for Biology](#control-theory-for-biology) 
 
@@ -44,9 +44,11 @@ Insights from biological systems can also inspire new techniques for the design 
 </p>
 
 #### **Internal feedback in sensorimotor systems**
-The standard model of sensorimotor processing involves signal flows from sensory inputs to sensory areas, then from sensory areas to motor areas. However, massive amounts of signal flow in the opposite direction (i.e. from motor areas back toward sensory areas) are observed in the cortex; we refer to these signals as internal feedback. What function does internal feedback serve, and why does the brain contain so much of it? We answer these questions using control theory; we [outline the presence of internal feedback](https://arxiv.org/abs/2110.05029
-){:target="_blank"} across a variety of organ systems and organisms , and apply both [standard control theory](https://arxiv.org/abs/2109.11752
+The standard model of sensorimotor processing involves signal flows from sensory inputs to sensory areas, then from sensory areas to motor areas. However, massive amounts of signal flow in the opposite direction (i.e. from motor areas back toward sensory areas) are observed in the cortex; we refer to these signals as internal feedback. What function does internal feedback serve, and why does the brain contain so much of it? We answer these questions using control theory. In this set of three papers geared toward control audiences, we [outline the presence of internal feedback](https://arxiv.org/abs/2110.05029
+){:target="_blank"} across a variety of organ systems and organisms, and apply both [standard control theory](https://arxiv.org/abs/2109.11752
 ){:target="_blank"} and [distributed control theory](https://arxiv.org/abs/2109.11757
-){:target="_blank"} to analyze internal feedback. In particular, we argue that the incorporation of local communication and localized behavior necessitates large amounts of internal feedback. This work offers the first explanation for the large quantities of internal feedback observed in the cortex. Local and distributed processing also feature heavily in the analysis of chemical reaction networks, which is the subject of ongoing work.
+){:target="_blank"} to analyze internal feedback. In particular, we argue that the incorporation of local communication and localized behavior necessitates large amounts of internal feedback. We also explore additional connections to existing physiological and experimental data in [this preprint](https://arxiv.org/abs/2211.05922){:target="_blank"} geared toward a neuroscience/general audience. This work offers the first explanation for the large quantities of internal feedback observed in the cortex. Local and distributed processing also feature heavily in the analysis of chemical reaction networks, which is the subject of ongoing work.
+
+
 
 
