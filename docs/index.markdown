@@ -13,3 +13,4 @@ I'm an incoming Assistant Professor of Electrical Engineering and Computer Scien
 
 This website is currently under construction. If you are a current or prospective master's or PhD student interested in working with me, send me an email with your resume and a short description of your research interests. I can be reached at jsli at caltech dot edu.
 
+[[CV](/assets/jsli_cv_jun21.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[GitHub](https://github.com/flyingpeach){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}]
