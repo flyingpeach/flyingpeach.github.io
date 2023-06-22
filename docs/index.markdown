@@ -7,11 +7,9 @@ layout: home
 
 <style>body {text-align: justify}</style>
 
-**This website is currently under construction.**
-
 ![](/assets/profile_picture.jpeg){:align="left" width="225"}
 
-I'm an incoming Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan, starting in Fall 2023. I work on distributed control theory with applications to neuroscience, biology, and engineering systems. I received a BASc in Engineering Science from the University of Toronto in 2018, and am currently wrapping up my PhD in Control + Dynamical Systems at Caltech. Outside of work, I enjoy playing, composing, producing, and listening to music. I’ve also had the joy of working as a private piano and vocal music instructor for children and adults.
+I'm an incoming Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan, starting in Fall 2023. I work on distributed control theory with applications to neuroscience, biology, and engineering systems. I received a BASc in Engineering Science from the University of Toronto in 2018, and am currently wrapping up my PhD in Control + Dynamical Systems at Caltech. Outside of work, I enjoy playing, composing, producing, and listening to music. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
 
 [[CV](/assets/jsli_cv_jun21.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[GitHub](https://github.com/flyingpeach){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] [[Miscellaneous Resources](./resources.html){:target="_blank"}]
 
