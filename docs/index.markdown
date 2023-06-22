@@ -17,7 +17,8 @@ I'm an incoming Assistant Professor of Electrical Engineering and Computer Scien
 
 Open access to research is important to me. I endeavor to make some version of all my papers available on [arXiV](https://arxiv.org/){:target="_blank"} and [biorXiV](https://www.biorxiv.org/){:target="_blank"}.
 
-**For prospective students (master's and PhD):** if you are interested in working with me, send me an email with your resume and a short description of your research interests. Students should have experience or coursework in control theory or related fields. Background in neuroscience and biology is welcome, but not required -- curiosity and willingness to learn are all I require on these fronts. I can be reached at jsli at caltech dot edu.
+**For prospective students (master's and PhD):** if you are interested in working with me, send me an email with your resume and a short description of your research interests. Students should have experience or coursework in control theory or related fields. Background in neuroscience and biology is welcome, but not required -- curiosity and willingness to learn are all I require on these fronts. I can be reached at jsli at caltech dot edu. More information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}.
+
 
 ## **Research overview**
 
