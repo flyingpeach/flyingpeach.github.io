@@ -13,16 +13,20 @@ I'm an incoming Assistant Professor of Electrical Engineering and Computer Scien
 
 [[CV](/assets/jsli_cv_jul13.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[GitHub](https://github.com/flyingpeach){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] [[Miscellaneous Resources](./resources.html){:target="_blank"}]
 
-Open access to research is important to me. I endeavor to make some version of all my papers available on [arXiV](https://arxiv.org/){:target="_blank"} or [biorXiV](https://www.biorxiv.org/){:target="_blank"} -- these should be easily found via Google Scholar.
+Open access to research is important to me. I endeavor to make some version of all my papers available on [arXiV](https://arxiv.org/){:target="_blank"} or [biorXiV](https://www.biorxiv.org/){:target="_blank"} --- these should be easily found via Google Scholar.
 
 My pronouns are *she/her/hers*.
 
-**For prospective students (master's and PhD):** if you are interested in working with me, send me an email with your resume and a short description of your research interests. Students should have experience or coursework in control theory or related fields. Background in neuroscience and biology is welcome, but not required -- curiosity and willingness to learn are all I require on these fronts. I can be reached at jslisali at umich dot edu. More information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}.
+## **For prospective students**
+If you are interested in joining my group, you should have experience or coursework in control theory or related fields. You should also have some interest in neuroscience and biology --- background is not required, but curiosity and willingness to learn are required. 
 
+If you have any questions about research or what it's like to work in my group, feel free to reach out. Some information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}. If you don't have questions (which is OK as well!), apply to the appropriate ECE program and include my name somewhere as an advisor you are interested in working with. 
+
+I can be reached at jslisali at umich dot edu. I typically reply to emails within a week or so. Please note that I am not able to provide information on the status of individual applications --- shortlisted and admitted candidates will be notified according to standard procedures.
 
 ## **Research overview**
 
-In engineering, control theory plays a crucial role in the design and analysis of robust and efficient systems -- including robots, spacecraft, and power grids. In neuroscience, control theory underlies models of motor and sensorimotor function. Control theory also has applications as a modeling tool for various biological processes, such as metabolic dynamics. I am interested in control-theoretic analysis of biological systems, which yields novel scientific explanations as well as valuable design insights, which can be applied to engineering systems.
+In engineering, control theory plays a crucial role in the design and analysis of robust and efficient systems --- including robots, spacecraft, and power grids. In neuroscience, control theory underlies models of motor and sensorimotor function. Control theory also has applications as a modeling tool for various biological processes, such as metabolic dynamics. I am interested in control-theoretic analysis of biological systems, which yields novel scientific explanations as well as valuable design insights, which can be applied to engineering systems.
 
 The three foundational directions of my research are: 
 
@@ -42,7 +46,7 @@ The marriage of control theory and biology is far from new, but it is an unfamil
 
 ## **Distributed control**
 
-My theoretical research focuses on distributed, scalable control algorithms. These algorithms accommodate communication constraints, and enjoy complexity that scales independently of network size under mild assumptions. This is important for large-scale systems, for which centralized controllers can be intractable. I often use the system level synthesis framework in my research -- I write and maintain toolboxes in [MATLAB](https://github.com/flyingpeach/sls-code/tree/master/matlab){:target="_blank"} and [Python](https://github.com/shih-hao-tseng/SLSpy){:target="_blank"} for this framework. Representative works include scalable [structured robust control](https://arxiv.org/abs/2204.02493){:target="_blank"}, model predictive control ([1](https://arxiv.org/abs/2110.07010){:target="_blank"}, [2](https://arxiv.org/abs/2203.00780){:target="_blank"}, [3](https://arxiv.org/abs/2303.11264)), and [closed-loop and controller specifications for distributed algorithms](https://arxiv.org/abs/2006.05040){:target="_blank"}. These works may also be applied to models of neuroscience and biology, in which distributed operation and communication constraints play a key role.
+My theoretical research focuses on distributed, scalable control algorithms. These algorithms accommodate communication constraints, and enjoy complexity that scales independently of network size under mild assumptions. This is important for large-scale systems, for which centralized controllers can be intractable. I often use the system level synthesis framework in my research --- I write and maintain toolboxes in [MATLAB](https://github.com/flyingpeach/sls-code/tree/master/matlab){:target="_blank"} and [Python](https://github.com/shih-hao-tseng/SLSpy){:target="_blank"} for this framework. Representative works include scalable [structured robust control](https://arxiv.org/abs/2204.02493){:target="_blank"}, model predictive control ([1](https://arxiv.org/abs/2110.07010){:target="_blank"}, [2](https://arxiv.org/abs/2203.00780){:target="_blank"}, [3](https://arxiv.org/abs/2303.11264)), and [closed-loop and controller specifications for distributed algorithms](https://arxiv.org/abs/2006.05040){:target="_blank"}. These works may also be applied to models of neuroscience and biology, in which distributed operation and communication constraints play a key role.
 
 <p align="center">
 <img width="650" src="/assets/distributed_control.png">
