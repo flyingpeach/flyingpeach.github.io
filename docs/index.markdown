@@ -9,20 +9,20 @@ layout: home
 
 ![](/assets/profile_picture.jpeg){:align="left" width="225"}
 
-I'm an incoming Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan, starting in Fall 2023. I work on distributed control theory with applications to neuroscience, biology, and engineering systems. I received a BASc in Engineering Science from the University of Toronto in 2018, and am currently wrapping up my PhD in Control + Dynamical Systems at Caltech. Outside of work, I enjoy playing, composing, producing, and listening to music. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
+I'm an Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan, working on distributed control theory with applications to neuroscience, biology, and engineering systems. I received a BASc in Engineering Science from the University of Toronto in 2018, and a PhD in Control + Dynamical Systems at Caltech. Outside of work, I enjoy playing, composing, producing, and listening to music. I've also had the joy of working as a private piano and vocal music instructor for children and adults.
 
-[[CV](/assets/jsli_cv_jul13.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[GitHub](https://github.com/flyingpeach){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] [[Miscellaneous Resources](./resources.html){:target="_blank"}]
+[[CV](/assets/jsli_cv_sep11.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?user=4EQuvGEAAAAJ){:target="_blank"}] [[GitHub](https://github.com/flyingpeach){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/jslisali/){:target="_blank"}] [[Miscellaneous Resources](./resources.html){:target="_blank"}]
 
 Open access to research is important to me. I endeavor to make some version of all my papers available on [arXiV](https://arxiv.org/){:target="_blank"} or [biorXiV](https://www.biorxiv.org/){:target="_blank"} --- these should be easily found via Google Scholar.
 
 My pronouns are *she/her/hers*.
 
 ## **For prospective students**
-If you are interested in joining my group, you should have experience or coursework in control theory or related fields. You should also have some interest in neuroscience and biology --- background is not required, but curiosity and willingness to learn are required. 
+If you are interested in joining my group, you should have experience or coursework in control theory or related fields. You should also have some interest in neuroscience and biology --- background is not required, but curiosity and willingness to learn *are* required! 
 
-If you have any questions about research or what it's like to work in my group, feel free to reach out. Some information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}. If you don't have questions (which is OK as well!), apply to the appropriate ECE program and include my name somewhere as an advisor you are interested in working with. 
+If you have any questions about my research or what it's like to work in my group, send me an email at jslisali at umich dot edu. I typically reply to emails within a week. Some information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}. If you don't have questions (which is OK as well!), apply to the ECE or CSE program and include my name somewhere (e.g. in your research statement) as an advisor you are interested in working with.
 
-I can be reached at jslisali at umich dot edu. I typically reply to emails within a week or so. Please note that I am not able to provide information on the status of individual applications --- shortlisted and admitted candidates will be notified according to standard procedures.
+Please note that I am not able to provide information on the status of individual applications --- shortlisted and admitted candidates will be notified according to standard procedures. I also don't typically meet with students before the admissions process, unless the student is already at U of M.
 
 ## **Research overview**
 
@@ -42,7 +42,7 @@ The three foundational directions of my research are:
 
 I am particularly interested in how biology co-designs and implements controllers using organic components, which face unique challenges compared to their electronic counterparts.
 
-The marriage of control theory and biology is far from new, but it is an unfamiliar union to many engineers and scientists. For engineers and control theorists who wonder why one might choose biology as a main application, I offer up [the following explanation](./why_biology.html){:target="_blank"}. Conversely, for neuroscientists and biologists who are curious about controls, I elaborate on some unique benefits of control theory as a modeling tool [here](./why_controls.html){:target="_blank"}. These snippets are adapted from my PhD thesis.
+The marriage of control theory and biology is far from new, but it is an unfamiliar union to many engineers and scientists. For engineers and control theorists who wonder why one might choose biology as a main application, I offer up [the following explanation](./why_biology.html){:target="_blank"}. Conversely, for neuroscientists and biologists who are curious about controls, I elaborate on some unique benefits of control theory as a modeling tool [here](./why_controls.html){:target="_blank"}. These snippets are adapted from my [PhD thesis](https://thesis.library.caltech.edu/16137/){:target="_blank"}.
 
 ## **Distributed control**
 
