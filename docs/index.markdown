@@ -18,11 +18,19 @@ Open access to research is important to me. I endeavor to make some version of a
 My pronouns are *she/her/hers*.
 
 ## **For prospective students**
-If you are interested in joining my group, you should have experience or coursework in control theory or related fields. You should also have some interest in neuroscience and biology --- background is not required, but curiosity and willingness to learn *are* required! 
+I am currently open to hiring students. If you are interested in joining my group, you should have experience or coursework in control theory. You should also have some interest in neuroscience and biology --- background is not required, but curiosity and willingness to learn *are* required! Apply to the ECE or CSE program and include my name somewhere (e.g. in your research statement) as an advisor you are interested in working with.
 
-If you have any questions about my research or what it's like to work in my group, send me an email at jslisali at umich dot edu. I typically reply to emails within a week. Some information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}. If you don't have questions (which is OK as well!), apply to the ECE or CSE program and include my name somewhere (e.g. in your research statement) as an advisor you are interested in working with.
+I can be reached at jslisali at umich dot edu. Please read the below first if you plan to email me:
 
-Please note that I am not able to provide information on the status of individual applications --- shortlisted and admitted candidates will be notified according to standard procedures. I also don't typically meet with students before the admissions process, unless the student is already at U of M.
+Emails I *will* respond to (typically within a week): 
+* Questions about research and planned projects. Please include a description of your own research interests, background, etc.
+* Questions about what it's like to work in my group. Some information on my mentorship style can be found [here](./mentoring.html){:target="_blank"}.
+
+Emails I will generally *not* respond to:
+* Questions about how to apply to the PhD program. Instructions can be found on the departmental webpage.
+* Questions about the suitability or status of your PhD application package. These are handled on a departmental level, and you will be notified according to standard procedures.
+* Requests to meet (in-person or virtual), unless you are already at U of M.
+* Other low-effort correspondence, e.g. emailing me without any idea of my research areas, clear research mismatch, etc.
 
 ## **Research overview**
 
