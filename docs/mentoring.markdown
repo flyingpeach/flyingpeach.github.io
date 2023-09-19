@@ -12,13 +12,13 @@ layout: page
 The following is inspired by the mentoring plans from [here](https://me.engin.umich.edu/people/faculty/){:target="_blank"}.
 
 #### Advising style
-I tailor my advising style to best suit the need of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. I believe that the goal of the PhD is to demonstrate an ability to independently propose, justify, and solve a research problem -- thus, PhD students can expect to gain more research independence (and less hands-on advising from me) as they progress through their degree.
+I tailor my advising style to best suit the need of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. I believe that the goal of the PhD is to demonstrate an ability to independently propose, justify, and solve a research problem --- thus, PhD students can expect to gain more research independence (and less hands-on advising from me) as they progress through their degree.
 
 #### Authorship
 In my field, it is typical to have papers with few authors (or even a single author). For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, I aim to discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
 
 #### Conferences
-We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources -- though I strongly suggest the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
+We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources --- though I strongly suggest the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
 
 #### Contact
 My students can reach me via email or Slack. I will generally respond within one working day (often sooner).
