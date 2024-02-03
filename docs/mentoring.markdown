@@ -16,39 +16,43 @@ layout: home
 
 The following is inspired by the mentoring plans from [here](https://me.engin.umich.edu/people/faculty/){:target="_blank"}.
 
-#### Advising style
-I tailor my advising style to best suit the need of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. I believe that the goal of the PhD is to demonstrate an ability to independently propose, justify, and solve a research problem --- thus, PhD students can expect to gain more research independence (and less hands-on advising from me) as they progress through their degree.
+#### **Advising philosophy**
+I tailor my advising style to best suit the needs of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. As students gain more research experience and autonomy, I will shift toward a more hands-off approach.
 
-#### Authorship
-In my field, it is typical to have papers with few authors (or even a single author). For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, I aim to discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
+#### **Meetings**
+I meet with all my students one-on-one. When my research team grows to a sufficient size, I also plan to have bi-weekly or monthly team meetings in which members can present their progress or practice upcoming presentations.
 
-#### Conferences
-We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources --- though I strongly suggest the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
+For students who are working with me informally, I adopt an informal meeting structure. At each meeting, I provide feedback and next steps, and the student can email me to set up a meeting when they feel they have made sufficient progress and/or have accumulated some questions. In my experience, this typically translates to one meeting (30-60 minutes) every 2-3 weeks.
 
-#### Contact
+Students who are formally working with me (e.g. directed study, or my own PhD students) typically meet with me once a week for 60 minutes. Meetings can be more or less frequent depending on the needs of the student and project. 
+
+#### **Contact**
 My students can reach me via email. I will generally respond within 1-2 working days (often sooner).
 
-#### Fellowships
-I strongly encourage students to explore and apply to fellowship opportunities that are available to them. At worst, you will experience the temporary sting of rejection. At best, you will obtain a fellowship, which will strongly incentivize advisors to accept you into their lab (if you are a prospective PhD student) and buff up your resume/CV for future applications. Writing fellowship proposals can also be a great opportunity to sharpen your research ideas and communicate them to a general scientific audience. The [scholarships and fellowships office](https://scholarships.engin.umich.edu/){:target="_blank"} is an excellent resource.
+#### **Student responsibilities**
+Typical responsibilities include literature review, problem formulation, pen-and-paper analysis, coding (typically MATLAB or Python), simulations, manuscript preparation, and preparing talks. I will provide the necessary guidance on these tasks. I also expect some degree of initative from students of all levels: for instance, before coming to me with a question, students should make a reasonable attempt to find an answer using the resources available to them.
 
-#### Graduation
-I expect that at graduation, a PhD student is able to independently propose, justify, and solve a research problem. Typically, they will have provided evidence of this via numerous first-author conference and journal publications. I expect students to graduate in no more than 5 years.
-
-#### Internships
-I am supportive of students going on summer internship during the PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not want to do an internship.
-
-#### Lab culture
+#### **Lab culture**
 I aim to foster a collaborative and inclusive environment for students to thrive in, regardless of their race, gender identity, sexual orientation, or any other demographic attributes. As such, I expect students to be respectful and courteous to their colleagues. I will also advocate for (or provide) free food, when the occasion warrants.
 
-#### Meetings
-I plan to meet one-on-one with my students on a weekly basis, typically for 30-60 minutes. Meetings can be more or less frequent depending on the needs of the student and project. When my group grows to a sufficient size, I also plan to have bi-weekly or monthly group meetings in which members can present their progress or practice upcoming presentations.
+#### **PhD graduation**
+I expect that at graduation, a PhD student is able to independently propose, justify, and solve a research problem. Typically, they will have provided evidence of this via numerous first-author conference and journal publications. I expect students to graduate in no more than 5 years.
 
-#### Student responsibilities
-Typical responsibilities include literature review, problem formulation, pen-and-paper analysis, coding (typically MATLAB or Python), simulations, manuscript preparation, and preparing talks. I will provide the necessary guidance on these tasks.
+#### **Fellowships**
+I strongly encourage students to explore and apply to fellowship opportunities that are available to them. At worst, you will experience the temporary sting of rejection. At best, you will obtain a fellowship, which will strongly incentivize advisors to accept you into their lab (if you are a prospective PhD student) and buff up your resume/CV for future applications. Writing fellowship proposals can also be a great opportunity to sharpen your research ideas and communicate them to a general scientific audience. The [scholarships and fellowships office](https://scholarships.engin.umich.edu/){:target="_blank"} is an excellent resource.
 
-#### Teaching
-I plan to ask students to serve as a GSI for one term over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the group (and me!).
+#### **Conferences**
+We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources --- though I strongly suggest the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
 
-#### Working hours and vacation
+#### **Authorship**
+In my field, it is typical to have papers with few authors (or even a single author). For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, I aim to discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
+
+#### **Internships**
+I am supportive of students going on summer internship during the PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not want to do an internship.
+
+#### **Teaching**
+I plan to ask students to serve as a GSI for one term over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the team (and me!).
+
+#### **Working hours and vacation**
 I am quite flexible on working hours and vacation time, as long as the student is making good progress on their research. I would like to be informed of planned vacations a few weeks in advance, so that I can plan around them accordingly.
 

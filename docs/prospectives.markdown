@@ -20,5 +20,4 @@ I can be reached at jslisali at umich dot edu. While I am happy to answer questi
 
 If you are a prospective PhD student, apply to the ECE program and include my name as an advisor you are interested in working with. Instructions can be found on the departmental webpage.
 
-If you are a current UofM student, send me an email with your CV, research interests, and estimated number of hours per week you are able to work. I am open to both informal and formal advising (e.g. research via directed study), though I prefer the latter --- please indicate which you plan to do.
-
+If you are a current UofM student, send me an email with your CV, research interests, and whether you plan to work with me formally (e.g. by signing up for a directed study with me) or informally. If you want to work with me informally, please provide an estimated number of hours per week you are planning to devote to our research. 
