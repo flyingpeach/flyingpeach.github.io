@@ -11,7 +11,7 @@ body {text-align: justify}
 </style>
 
 <center>
-<a href="./team.html" target="_blank">Research Team</a> | <a href="./prospectives.html" target="_blank">Prospective Students</a> | <a href="./mentoring.html" target="_blank">Mentoring Style</a> | <a href="./miscellany.html" target="_blank">Miscellany</a>
+<a href="./index.html">Home</a> | <a href="./team.html">Research Team</a> | <a href="./prospectives.html">Prospective Students</a> | <a href="./mentoring.html">Mentoring Style</a> | <a href="./miscellany.html">Miscellany</a>
 </center>
 <br>
 
@@ -40,7 +40,11 @@ The three foundational directions of my research are:
 <img width="550" src="/assets/research_overview.png">
 </p>
 
-The marriage of control theory and biology is far from new, but it is an unfamiliar union to many engineers and scientists. For engineers and control theorists who wonder why one might choose biology as a main application, I offer up [the following explanation](./why_biology.html){:target="_blank"}. Conversely, for neuroscientists and biologists who are curious about controls, I elaborate on some unique benefits of control theory as a modeling tool [here](./why_controls.html){:target="_blank"}. These snippets are adapted from my [PhD thesis](https://thesis.library.caltech.edu/16137/){:target="_blank"}.
+The marriage of control theory and biology is far from new, but it is an unfamiliar union to many engineers and scientists. If you want to better understand the motivation behind the integration of these disciplines, read these:
+
+For engineers and control theorists: [why biology?](./why_biology.html){:target="_blank"}
+
+For biologists and neuroscientists: [why control theory?](./why_controls.html){:target="_blank"}
 
 <br>
 ## **Distributed control**

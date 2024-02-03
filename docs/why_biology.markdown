@@ -2,13 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 ---
 
 <style>body {text-align: justify}</style>
 
 ### **Benefits of applying control theory to biology**
 #### *(for engineers and control theorists)*
+
+The following is adapted from my [PhD thesis](https://thesis.library.caltech.edu/16137/){:target="_blank"}.
 
 The pursuit of autonomy and artificial intelligence --- particularly in the domain of robotics --- is a major driving force behind funding, research, and technological advances in both academia and industry. However, despite significant investments and breakthroughs, state-of-the-art systems are often bested by biology. One only has to look across the street at the neighbor's cat to see an example of an autonomous being that is at once more agile, energy-efficient, and robust to environmental variations than our best quadruped robots. In general, animals excel at complex tasks (e.g. predator evasion) in highly dynamic and unpredictable environments --- modern engineering systems, for the most part, cannot achieve comparable performance for even simple subsets of these tasks (e.g. legged locomotion, balancing). This contrast is made more remarkable by the fact that, as previously mentioned, animals are composed of organic components that are in many ways inferior to the metal components that make up our robots. In short, animals attain a level of robustness and autonomy that engineers have thus far failed to replicate. By gaining a deeper understanding of how biology accomplishes this, engineers can gain valuable insights to aid in their designs.
 

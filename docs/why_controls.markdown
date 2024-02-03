@@ -2,13 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 ---
 
 <style>body {text-align: justify}</style>
 
 ### **Benefits of applying control theory to biology**
-#### *(for biologists)*
+#### *(for biologists and neuroscientists)*
+
+The following is adapted from my [PhD thesis](https://thesis.library.caltech.edu/16137/){:target="_blank"}.
 
 I start with an obvious caveat: control theory is not applicable to the entirety of biology. However, it is a cornerstone of models in the area of sensorimotor neuroscience. Adjacent fields, such as motor control and locomotion, naturally also benefit from control theory. For biologists working in more distant areas, a general guideline is that if the biological entities of interest can be described with differential equations, then applying concepts from dynamical systems and control theory may provide additional insights and models.
 
