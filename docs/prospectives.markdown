@@ -1,0 +1,19 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+
+<style>body {text-align: justify}</style>
+
+### **For prospective students**
+
+I am currently open to working with students of all levels. I am not currently hiring postdocs. If you are interested in joining the team, you should have some experience or coursework in control theory, and ideally some experience with MATLAB or Python. 
+
+I can be reached at jslisali at umich dot edu. While I am happy to answer questions about research and mentorship via email, I typically do not meet with students (in-person or virtual) unless they are already at U of M.
+
+If you are a prospective PhD student, apply to the ECE program and include my name as an advisor you are interested in working with. Instructions can be found on the departmental webpage.
+
+If you are a current UofM student, send me an email with your CV, research interests, and estimated number of hours per week you are able to work. I am open to both informal and formal advising (e.g. research via directed study), though I prefer the latter --- please indicate which you plan to do.
+

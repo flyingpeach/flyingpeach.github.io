@@ -7,7 +7,7 @@ layout: page
 
 <style>body {text-align: justify}</style>
 
-### **Mentorship style**
+### **Mentoring style**
 
 The following is inspired by the mentoring plans from [here](https://me.engin.umich.edu/people/faculty/){:target="_blank"}.
 
@@ -21,13 +21,13 @@ In my field, it is typical to have papers with few authors (or even a single aut
 We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources --- though I strongly suggest the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
 
 #### Contact
-My students can reach me via email or Slack. I will generally respond within one working day (often sooner).
+My students can reach me via email. I will generally respond within 1-2 working days (often sooner).
 
 #### Fellowships
 I strongly encourage students to explore and apply to fellowship opportunities that are available to them. At worst, you will experience the temporary sting of rejection. At best, you will obtain a fellowship, which will strongly incentivize advisors to accept you into their lab (if you are a prospective PhD student) and buff up your resume/CV for future applications. Writing fellowship proposals can also be a great opportunity to sharpen your research ideas and communicate them to a general scientific audience. The [scholarships and fellowships office](https://scholarships.engin.umich.edu/){:target="_blank"} is an excellent resource.
 
 #### Graduation
-I expect that at graduation, a PhD student is able to independently propose, justify, and solve a research problem. Typically, they will have provided evidence of this via numerous first-author conference and journal publications. I generally expect students to graduate in no more than 5 years.
+I expect that at graduation, a PhD student is able to independently propose, justify, and solve a research problem. Typically, they will have provided evidence of this via numerous first-author conference and journal publications. I expect students to graduate in no more than 5 years.
 
 #### Internships
 I am supportive of students going on summer internship during the PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not want to do an internship.
