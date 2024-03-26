@@ -12,10 +12,6 @@ layout: home
 </center>
 <br>
 
-### **Mentoring style**
-
-The following is inspired by the mentoring plans from [here](https://me.engin.umich.edu/people/faculty/){:target="_blank"}.
-
 #### **Advising philosophy**
 I tailor my advising style to best suit the needs of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. As students gain more research experience and autonomy, I will shift toward a more hands-off approach.
 
@@ -51,8 +47,8 @@ In my field, it is typical to have papers with few authors (or even a single aut
 I am supportive of students going on summer internship during the PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not want to do an internship.
 
 #### **Teaching**
-I plan to ask students to serve as a GSI for one term over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the team (and me!).
+I plan to ask students to serve as a GSI for 1-2 terms over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the team (and me!).
 
 #### **Working hours and vacation**
-I am quite flexible on working hours and vacation time, as long as the student is making good progress on their research. I would like to be informed of planned vacations a few weeks in advance, so that I can plan around them accordingly.
+I am quite flexible on working hours and vacation time, as long as the student is making good progress on their research. Typically students will take some time off during winter break and summer semester, as well as public holidays. I would like to be informed of planned vacations at least 2-3 weeks in advance, so I can plan around them.
 
