@@ -16,14 +16,14 @@ layout: home
 I tailor my advising style to best suit the needs of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. As students gain more research experience and autonomy, I will shift toward a more hands-off approach.
 
 #### **Meetings**
-I meet with all my students one-on-one. When my research team grows to a sufficient size, I also plan to have bi-weekly or monthly team meetings in which members can present their progress or practice upcoming presentations.
+I meet with all my students one-on-one. I also have regular team meetings in which members can present their progress or practice upcoming presentations.
 
 For students who are working with me informally, I adopt an informal meeting structure. At each meeting, I provide feedback and next steps, and the student can email me to set up a meeting when they feel they have made sufficient progress and/or have accumulated some questions. In my experience, this typically translates to one meeting (30-60 minutes) every 2-3 weeks.
 
 Students who are formally working with me (e.g. directed study, or my own PhD students) typically meet with me once a week for 60 minutes. Meetings can be more or less frequent depending on the needs of the student and project. 
 
 #### **Contact**
-My students can reach me via email. I will generally respond within 1-2 working days (often sooner).
+My students can reach me via email or Slack. I will generally respond within 1-2 working days (often sooner).
 
 #### **Student responsibilities**
 Typical responsibilities include literature review, problem formulation, pen-and-paper analysis, coding (typically MATLAB or Python), simulations, manuscript preparation, and preparing talks. I will provide the necessary guidance on these tasks. I also expect some degree of initative from students of all levels: for instance, before coming to me with a question, students should make a reasonable attempt to find an answer using the resources available to them.

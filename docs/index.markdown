@@ -17,7 +17,7 @@ body {text-align: justify}
 
 <img class="my-image" src="/assets/profile_picture.jpeg" align="left" width="180">
 
-I'm an Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan. My research focuses on distributed and resource-constrained control theory with applications to biology and engineering systems. I received a BASc in Engineering Science from the University of Toronto in 2018, and a PhD in Control + Dynamical Systems from Caltech in 2023. My pronouns are *she/her/hers*.
+I'm an Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan. I am also affiliated with the Michigan Neuroscience Institute. My research focuses on distributed and resource-constrained control theory with applications to biology and engineering systems. I received a BASc in Engineering Science from the University of Toronto in 2018, and a PhD in Control + Dynamical Systems from Caltech in 2023. My pronouns are *she/her/hers*.
 
 <center>
 <a href="/assets/jsli_cv_feb03.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?user=4EQuvGEAAAAJ" target="_blank">Google Scholar</a> | <a href="https://github.com/flyingpeach" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/jslisali/" target="_blank">LinkedIn</a>
