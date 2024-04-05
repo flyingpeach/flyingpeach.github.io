@@ -12,12 +12,16 @@ layout: home
 </center>
 <br>
 
-### **For prospective students**
+### **Prospective students**
 
-I am currently open to working with students of all levels. I am not currently hiring postdocs. If you are interested in joining the team, you should have some experience or coursework in control theory, and ideally some experience with MATLAB or Python. 
+My research is theory- and simulation-heavy. Interested students should have experience or coursework in control theory, and ideally some experience with MATLAB or Python.
 
-I can be reached at jslisali at umich dot edu. While I am happy to answer questions about research and mentorship via email, I typically do not meet with students (in-person or virtual) unless they are already at U of M.
+#### **Current UofM students**
 
-If you are a prospective PhD student, apply to the ECE program and include my name as an advisor you are interested in working with. Instructions can be found on the departmental webpage.
+Send me an email with your CV, research interests, and whether you plan to work with me formally (e.g. by signing up for a directed study with me) or informally. If you want to work with me informally, please provide an estimated number of hours per week you are planning to devote to our research. 
 
-If you are a current UofM student, send me an email with your CV, research interests, and whether you plan to work with me formally (e.g. by signing up for a directed study with me) or informally. If you want to work with me informally, please provide an estimated number of hours per week you are planning to devote to our research. 
+#### **Prospective PhD students**
+Apply to the ECE program and include my name as an advisor you are interested in working with. I am happy to answer questions about research and mentorship via email, though it is not necessary to email me before you apply. More information about my mentoring style can be found <a href="./mentoring.html">here</a>. 
+
+After PhD applications have been reviewed, shortlisted candidates will receive an invitation to meet (in-person or virtual) in January/February. Unfortunately I am unable to meet with non-shortlisted candidates.
+

@@ -12,8 +12,7 @@ layout: home
 </center>
 <br>
 
-#### **Advising philosophy**
-I tailor my advising style to best suit the needs of the student. Generally, undergrads, masters students, and early-year PhD students can expect to receive detailed, hands-on guidance on everything from problem formulation to manuscript preparation. As students gain more research experience and autonomy, I will shift toward a more hands-off approach.
+### **Mentoring style**
 
 #### **Meetings**
 I meet with all my students one-on-one. I also have regular team meetings in which members can present their progress or practice upcoming presentations.
@@ -29,7 +28,7 @@ My students can reach me via email or Slack. I will generally respond within 1-2
 Typical responsibilities include literature review, problem formulation, pen-and-paper analysis, coding (typically MATLAB or Python), simulations, manuscript preparation, and preparing talks. I will provide the necessary guidance on these tasks. I also expect some degree of initative from students of all levels: for instance, before coming to me with a question, students should make a reasonable attempt to find an answer using the resources available to them.
 
 #### **Lab culture**
-I aim to foster a collaborative and inclusive environment for students to thrive in, regardless of their race, gender identity, sexual orientation, or any other demographic attributes. As such, I expect students to be respectful and courteous to their colleagues. I will also advocate for (or provide) free food, when the occasion warrants.
+I aim to foster a collaborative and inclusive environment for students to thrive in, regardless of their race, gender identity, sexual orientation, or any other demographic attributes. As such, I expect students to be respectful and courteous to their colleagues.
 
 #### **PhD graduation**
 I expect that at graduation, a PhD student is able to independently propose, justify, and solve a research problem. Typically, they will have provided evidence of this via numerous first-author conference and journal publications. I expect students to graduate in no more than 5 years.
@@ -41,14 +40,14 @@ I strongly encourage students to explore and apply to fellowship opportunities t
 We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources --- though I strongly suggest the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
 
 #### **Authorship**
-In my field, it is typical to have papers with few authors (or even a single author). For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, I aim to discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
+In my field, it is typical to have papers with few authors or even a single author. For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, I aim to discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
 
 #### **Internships**
-I am supportive of students going on summer internship during the PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not want to do an internship.
+I am supportive of students going on summer internship during their PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not do an internship.
 
 #### **Teaching**
-I plan to ask students to serve as a GSI for 1-2 terms over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the team (and me!).
+I plan to ask PhD students to serve as a GSI for 1-2 terms over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the team (and me!).
 
 #### **Working hours and vacation**
-I am quite flexible on working hours and vacation time, as long as the student is making good progress on their research. Typically students will take some time off during winter break and summer semester, as well as public holidays. I would like to be informed of planned vacations at least 2-3 weeks in advance, so I can plan around them.
+I am quite flexible on working hours and vacation time, as long as the student is making good progress on their research. Typically PhD students will take some time off during winter break and summer semester, as well as public holidays. I would like to be informed of planned vacations at least 2-3 weeks in advance, so I can plan around them.
 

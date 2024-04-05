@@ -14,7 +14,7 @@ layout: home
 
 ### **Research team**
 
-The team is growing! If you're interested in joining, see the page for <a href="./prospectives.html" target="_blank">prospective students</a>.
+The team is growing! If you're interested in joining, see the page for <a href="./prospectives.html">prospective students</a>.
 
 <br>
 #### Current members
