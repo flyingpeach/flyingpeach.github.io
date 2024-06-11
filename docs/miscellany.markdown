@@ -14,6 +14,8 @@ layout: home
 
 ### **Miscellany**
 
+My Erdős number is 4. [This tool](https://www.csauthors.net/distance){:target="_blank"} is handy for finding your Erdős number (or your distance to any CS-adjacent academic).
+
 #### **Academic job search**
 I found the blog posts from [Kira Goldner](https://www.kiragoldner.com/blog/index.html){:target="_blank"} and [Sylvia Herbert](http://sylviaherbert.com/faculty-application-advice){:target="_blank"} to be informative and helpful. I also share my own job application materials, in the hopes that it will be helpful for someone else: [research statement](/assets/jsli_research_statement_jan16.pdf){:target="_blank"}, [teaching statement](/assets/jsli_teaching_statement_nov01.pdf){:target="_blank"}, and [DEI statement](/assets/jsli_dei_statement_nov01.pdf){:target="_blank"}.
 
