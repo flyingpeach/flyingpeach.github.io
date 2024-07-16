@@ -14,7 +14,7 @@ layout: home
 
 ### **Research team**
 
-The team is growing! If you're interested in joining, see the page for <a href="./prospectives.html">prospective students</a>.
+If you're interested in joining, see the page for <a href="./prospectives.html">prospective students</a>.
 
 <br>
 #### **Current members**
@@ -22,4 +22,4 @@ Justin Ting, ECE PhD (co-advised with Zhengya Zhang), Jan 2024 ---
 
 Yaozhi Du, ECE MS, Jan 2024 ---
 
-Qunzhuo Feng, MechE MSE, Sep 2023 ---
+Qunzhuo Feng, MechE MSE, Sep 2023 --- Apr 2024

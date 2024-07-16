@@ -14,11 +14,11 @@ layout: home
 
 ### **Prospective students**
 
-My research is theory- and simulation-heavy. Interested students should have experience or coursework in control theory, and ideally some experience with MATLAB or Python.
+My research is theory- and simulation-heavy. Interested students should have experience or coursework in control theory, and some proficiency with MATLAB or Python.
 
 #### **Current UofM students**
 
-Send me an email with your CV, transcripts, and research interests. I typically prefer working with students in a formal setting --- that is, the student signs up for a directed study with me and receives course credits for research. If you want to work with me informally, please provide an estimated number of hours per week you are planning to devote to our research.
+Send me an email with your CV, transcripts, and research interests. I prefer working with students in a formal setting --- that is, the student signs up for a directed study with me and receives course credits for research. 
 
 A list of controls-related courses offered at UofM is maintained [here](https://controls.engin.umich.edu/control-courses/){:target="_blank"}.
 

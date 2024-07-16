@@ -15,11 +15,7 @@ layout: home
 ### **Mentoring style**
 
 #### **Meetings**
-I meet with all my students one-on-one. I also have regular team meetings in which members can present their progress or practice upcoming presentations.
-
-For students who are working with me informally, I adopt an informal meeting structure. At each meeting, I provide feedback and next steps, and the student can email me to set up a meeting when they feel they have made sufficient progress and/or have accumulated some questions. In my experience, this typically translates to one meeting (30-60 minutes) every 2-3 weeks.
-
-Students who are formally working with me (e.g. directed study, or my own PhD students) typically meet with me once a week for 60 minutes. Meetings can be more or less frequent depending on the needs of the student and project. 
+I meet with all my students one-on-one for 30-60 minutes every week. I also have regular team meetings in which members can present their progress or practice upcoming presentations.
 
 #### **Contact**
 My students can reach me via email or Slack. I will generally respond within 1-2 working days (often sooner).
