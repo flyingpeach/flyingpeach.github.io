@@ -20,7 +20,7 @@ body {text-align: justify}
 I'm an Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan. I am also affiliated with the Michigan Neuroscience Institute. I received a BASc in Engineering Science from the University of Toronto in 2018, and a PhD in Control + Dynamical Systems from Caltech in 2023. My research interests include optimal control, distributed control, resource- and communication-constrained control, sensorimotor neuroscience, and large-scale systems. My pronouns are *she/her/hers*.
 
 <center>
-<a href="/assets/jsli_cv_apr29.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?user=4EQuvGEAAAAJ" target="_blank">Google Scholar</a> | <a href="https://github.com/flyingpeach" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/jslisali/" target="_blank">LinkedIn</a>
+<a href="/assets/jsli_cv_aug07.pdf" target="_blank">CV</a> | <a href="https://scholar.google.com/citations?user=4EQuvGEAAAAJ" target="_blank">Google Scholar</a> | <a href="https://github.com/flyingpeach" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/jslisali/" target="_blank">LinkedIn</a>
 </center>
 
 ## **Research overview**
