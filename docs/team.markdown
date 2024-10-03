@@ -26,9 +26,9 @@ Justin Ting, W2024 --- <br>&nbsp; *coadvised with Zhengya Zhang*
 
 <br>
 #### **Master's students**
-Riley Bridges, S/S2024 ---
+Riley Bridges, S/S2024 --- F2024
 
-Ethan Parham, S/S2024 ---
+Ethan Parham, S/S2024 --- F2024
 
 Prerana Lakshmanan, S/S2024
 
@@ -42,6 +42,6 @@ Aida Ruan, S/S2024
 
 Anisha Sharma, S/S2024
 
-Mo Yang, F2023, S/S2024 ---
+Mo Yang, F2023, S/S2024 --- F2024
 
-Jiayi Zhao, F2023, S/S2024 ---
+Jiayi Zhao, F2023, S/S2024 --- F2024
