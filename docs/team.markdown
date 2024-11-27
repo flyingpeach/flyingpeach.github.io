@@ -14,31 +14,35 @@ layout: home
 
 ### **Research team**
 
-This list includes current and past students. If you're interested in joining the team, see the page for <a href="./prospectives.html">prospective students</a>.
+This list includes current and past students. If you're interested in joining the team, see the page for <a href="./prospectives.html">prospective students</a>. Abbreviations: W: Winter term (Jan-Apr), S/S: Spring/Summer term (May-Aug), F: Fall term (Sep-Dec).
 
 <br>
 #### **PhD students**
+Yaozhi Du, W2025 ---
+
 Jaidev Gill, F2024 ---
 
 Eric (Qin) He, F2024 ---
 
-Justin Ting, W2024 --- <br>&nbsp; *coadvised with Zhengya Zhang*
+Justin Ting, W2024 ---
 
 <br>
 #### **Master's students**
+Enxu Liu, F2024
+
 Riley Bridges, S/S2024 --- F2024
 
 Ethan Parham, S/S2024 --- F2024
 
 Prerana Lakshmanan, S/S2024
 
-Yaozhi Du, W2024 ---
+Yaozhi Du, W2024 --- F2024
 
-Qunzhuo Feng, F2024 --- W2024
+Qunzhuo Feng, F2023 --- W2024
 
 <br>
 #### **Undergraduate students**
-Aida Ruan, S/S2024
+Aida Ruan, S/S2024 <br>&nbsp; *WISE RP Summer Scholar* 
 
 Anisha Sharma, S/S2024
 
