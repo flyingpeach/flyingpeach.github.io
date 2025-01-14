@@ -12,7 +12,7 @@ layout: home
 </center>
 <br>
 
-The following is partially adapted from the mentoring plan template provided by [Rackham’s Faculty Committee on Mentoring](https://rackham.umich.edu/faculty-and-staff/resources-for-directors/mentoring/){:target="_blank"}. Their website contains great resources for students.
+The following is partially adapted from the mentoring plan template provided by [Rackham’s Faculty Committee on Mentoring](https://rackham.umich.edu/faculty-and-staff/resources-for-directors/mentoring/){:target="_blank"}. Their website contains great resources for students and advisors/mentors.
 
 ### **Mentoring style**
 
