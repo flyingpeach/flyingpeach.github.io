@@ -16,14 +16,13 @@ I am not currently hiring postdocs.
 
 ### **Prospective students**
 
-My research is theory- and simulation-heavy. Interested students must have experience or coursework in control theory, and some proficiency with MATLAB or Python.
+My research is theory- and simulation-heavy. Interested students should have experience or coursework in control theory or its precursor courses (e.g., signals and systems), and some proficiency with MATLAB or Python.
 
 #### **Current UofM students**
 
-Send me an email with your CV, transcripts, and research interests. I prefer working with students in a formal setting --- that is, the student signs up for a directed study with me and receives course credits for research. 
+If you are a student seeking research opportunities with me, please send me an email with your CV, transcripts, and research interests. If you are an undergraduate student, please also identify the program under which you would like to conduct research with me (e.g., PURE-ECE, directed study). A full list of undergraduate ECE research programs is available [here](https://ece.engin.umich.edu/academics/undergraduate/current-undergrad/undergrad-research/). If you are a master's student, please note that I only work with master's students in the context of directed study.
 
-A list of controls-related courses offered at UofM is maintained [here](https://controls.engin.umich.edu/control-courses/){:target="_blank"}.
-
+If you are interested in control theory-related courses at UofM, see [here](https://controls.engin.umich.edu/control-courses/){:target="_blank"}.
 
 #### **Prospective PhD students**
 Apply to the ECE program and include my name as an advisor you are interested in working with. I am happy to answer questions about research and mentorship via email, though it is not necessary to email me before you apply. More information about my mentoring style can be found <a href="./mentoring.html">here</a>. 
