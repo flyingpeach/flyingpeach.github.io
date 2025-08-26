@@ -20,7 +20,7 @@ My research is theory- and simulation-heavy. Interested students should have exp
 
 #### **Current UofM students**
 
-If you are a student seeking research opportunities with me, please send me an email with your CV, transcripts, and research interests. If you are an undergraduate student, please also identify the program under which you would like to conduct research with me (e.g., PURE-ECE, directed study). A full list of undergraduate ECE research programs is available [here](https://ece.engin.umich.edu/academics/undergraduate/current-undergrad/undergrad-research/). If you are a master's student, please note that I only work with master's students in the context of directed study.
+If you are a student seeking research opportunities with me, please send me an email with your CV, transcripts, and research interests. If you are an undergraduate student, please also identify the program under which you would like to conduct research with me (e.g., PURE-ECE, directed study); a full list of undergraduate ECE research programs is available [here](https://ece.engin.umich.edu/academics/undergraduate/current-undergrad/undergrad-research/){:target="_blank"}. If you are a master's student, please note that I only work with master's students in the context of directed study.
 
 If you are interested in control theory-related courses at UofM, see [here](https://controls.engin.umich.edu/control-courses/){:target="_blank"}.
 
