@@ -28,6 +28,8 @@ Justin Ting, W2024 ---
 
 <br>
 #### **Master's students**
+Pengyang Wu, F2025
+
 Enxu Liu, F2024
 
 Riley Bridges, S/S2024 --- F2024
@@ -42,6 +44,8 @@ Qunzhuo Feng, F2023 --- W2024
 
 <br>
 #### **Undergraduate students**
+Bowen Mei, F2025 --- W2026
+
 Aida Ruan, S/S2024 <br>&nbsp; *WISE RP Summer Scholar* 
 
 Anisha Sharma, S/S2024
