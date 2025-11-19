@@ -44,7 +44,7 @@ Qunzhuo Feng, F2023 --- W2024
 
 <br>
 #### **Undergraduate students**
-Bowen Mei, F2025 --- W2026
+Bowen Mei, F2025 --- W2026  <br>&nbsp; *PURE-ECE Program*
 
 Aida Ruan, S/S2024 <br>&nbsp; *WISE RP Summer Scholar* 
 
