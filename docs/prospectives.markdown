@@ -16,7 +16,7 @@ I am not currently hiring postdocs.
 
 ### **Prospective students**
 
-My research is theory- and simulation-heavy. Interested students should have experience or coursework in control theory or its precursor courses (e.g., signals and systems), and some proficiency with MATLAB or Python.
+My research is theory- and simulation-heavy. Interested students should have experience or coursework in control theory or its precursors (e.g., signals and systems), and some proficiency with MATLAB or Python.
 
 #### **Current UofM students**
 

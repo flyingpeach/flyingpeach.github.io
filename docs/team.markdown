@@ -28,7 +28,9 @@ Justin Ting, W2024 ---
 
 <br>
 #### **Master's students**
-Pengyang Wu, F2025
+Sean Pasek, W2026
+
+Pengyang Wu, F2025 --- W2026
 
 Enxu Liu, F2024
 

@@ -12,7 +12,7 @@ layout: home
 </center>
 <br>
 
-The following is partially adapted from the mentoring plan template provided by [Rackham’s Faculty Committee on Mentoring](https://rackham.umich.edu/faculty-and-staff/resources-for-directors/mentoring/){:target="_blank"}. Their website contains great resources for students and advisors/mentors.
+The following is partially adapted from the mentoring plan template provided by [Rackham’s Faculty Committee on Mentoring](https://rackham.umich.edu/faculty-and-staff/resources-for-directors/mentoring/){:target="_blank"}. Their website contains useful resources for students and advisors/mentors.
 
 ### **Mentoring style**
 
@@ -23,7 +23,7 @@ I meet with all my students one-on-one for 30-60 minutes every week. I also have
 My students can reach me via email or Slack. I will generally respond within 1-2 working days (often sooner).
 
 #### **Student responsibilities**
-Typical responsibilities include literature review, problem formulation, pen-and-paper analysis, coding (typically MATLAB or Python), simulations, manuscript preparation, and preparing talks. I will provide the necessary guidance on these tasks. I also expect some degree of initiative from students of all levels: for instance, before coming to me with a question, students should make a reasonable attempt to find an answer using the resources available to them.
+Typical responsibilities include literature review, problem formulation, pen-and-paper analysis, coding (typically MATLAB or Python), simulations, manuscript preparation, and research presentations. I will provide the necessary guidance on these tasks. I also expect some degree of initiative from students of all levels: for instance, before coming to me with a question, students should make a reasonable attempt to find an answer using the resources available to them.
 
 #### **Lab culture**
 I aim to foster a collaborative and inclusive environment for students to thrive in, regardless of their race, gender identity, sexual orientation, or any other demographic attributes. As such, I expect students to be respectful and courteous to their colleagues.
@@ -35,10 +35,10 @@ I expect that at graduation, a PhD student is able to independently propose, jus
 I strongly encourage students to explore and apply to fellowship opportunities that are available to them. At worst, you will experience the temporary sting of rejection. At best, you will obtain a fellowship, which will strongly incentivize advisors to accept you into their lab (if you are a prospective PhD student) and buff up your resume/CV for future applications. Writing fellowship proposals can also be a great opportunity to sharpen your research ideas and communicate them to a general scientific audience. The [scholarships and fellowships office](https://scholarships.engin.umich.edu/){:target="_blank"} is an excellent resource.
 
 #### **Conferences**
-We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. If a student will be presenting at a conference, then I am happy to cover the cost of attendance from grants and discretionary sources --- though I expect the student to apply for Rackham Conference Travel Grants and other applicable external travel grants as well.
+We typically submit to control conferences such as American Control Conference (ACC) and Conference on Decision and Control (CDC). Students can expect to submit to and attend several such conferences throughout their PhD. Students presenting at conferences should apply for [Rackham Conference Travel Grants](https://seas.umich.edu/student-services/financial-aid/funding/rackham-conference-travel-funding){:target="_blank"} and other applicable travel grants. If these resources are not available, I will cover cost of attendance when funding allows.
 
 #### **Authorship**
-In my field, it is typical to have papers with few authors or even a single author. For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, I aim to discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
+In my field, it is typical to have papers with few authors or even a single author. For all papers authored with my students, I anticipate that I will be the final author (or near-final author, if other advisors are involved). For papers with more numerous contributors, we will discuss responsibilities, contributions, and authorship order at early planning stages and throughout the project duration, so that everyone is on the same page.
 
 #### **Internships**
 I am supportive of students going on summer internship during their PhD, as long as research progress is satisfactory. I will be especially supportive if this internship aligns with their research or the student wants to go into industry after graduation. Of course, it is also OK to not do an internship.
@@ -47,5 +47,5 @@ I am supportive of students going on summer internship during their PhD, as long
 I plan to ask PhD students to serve as a GSI for at least 1-2 terms over the course of their program. This is a valuable experience, particularly for those who have academic ambitions, and also helps the team (and me!).
 
 #### **Working hours and vacation**
-I am very flexible on working hours and vacation time, as long as the student is making good progress on their research. Typically PhD students will take some time off during winter break and summer semester, as well as public holidays. For absences of less than 1 week, I would like to be informed at least a week in advance; for absences of more than 1 week, I would like to be informed at least a month in advance.
+I am very flexible on working hours and vacation time, as long as research progress is satisfactory. In addition to statutory holidays, PhD students will typically take some time off during winter break and during the spring/summer semester. For absences of less than 1 week, I would like to be informed at least a week in advance; for absences of more than 1 week, I would like to be informed at least a month in advance.
 
