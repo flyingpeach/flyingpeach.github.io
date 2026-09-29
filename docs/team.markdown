@@ -22,12 +22,14 @@ Yaozhi Du, W2025 ---
 
 Jaidev Gill, F2024 ---
 
-Eric (Qin) He, F2024 ---
+Qin (Eric) He, F2024 ---
 
 Justin Ting, W2024 ---
 
 <br>
 #### **Master's students**
+Seohyeon (Emily) Choi, F2026
+
 Sean Pasek, W2026
 
 Pengyang Wu, F2025 --- W2026
